@@ -1,4 +1,4 @@
-#Gym Exercises Web Application
+# Gym Exercises Web Application
 
 React Fitness Application [Gym Exercises](https://gym-exercisesapp.netlify.app/).
 
