@@ -1,3 +1,10 @@
+#gym-exercise web application [Gym Exercises](https://gym-exercisesapp.netlify.app/).
+
+React Fitness Application
+
+It is developed using ReactJs and [MUI - React Component Library](https://mui.com/).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
