@@ -1,6 +1,6 @@
-#gym-exercise web application [Gym Exercises](https://gym-exercisesapp.netlify.app/).
+#Gym Exercises Web Application
 
-React Fitness Application
+React Fitness Application [Gym Exercises](https://gym-exercisesapp.netlify.app/).
 
 It is developed using ReactJs and [MUI - React Component Library](https://mui.com/).
 
